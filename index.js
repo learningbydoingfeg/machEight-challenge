@@ -14,6 +14,7 @@ const app = (list, val) => {
   }
 
   console.log(response)
+  return response
 };
 
 const list = [1, 9, 5, 0, 20, -4, 12, 16, 7];
